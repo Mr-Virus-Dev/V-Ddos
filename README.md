@@ -43,7 +43,7 @@
 
 ``(Tap To Redirect)``
 
-[![Github](https://img.shields.io/badge/Facebook-FBGroup-blue?style=for-the-badge&logo=facebook)](https://facebook.com/groups/mohinhossen)
+[![Github](https://img.shields.io/discord/OurServer)](https://facebook.com/groups/mohinhossen)
 [![Github](https://img.shields.io/badge/Facebook-FBPAGE-blue?style=for-the-badge&logo=facebook)](https://facebook.com/TeamVirusOfficial)
 [![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/Crackerspace)
 
